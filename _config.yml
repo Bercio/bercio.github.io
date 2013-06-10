@@ -1,0 +1,4 @@
+name: Your New Jekyll Site
+pygments: true
+maruku:
+    use_tex:    true
