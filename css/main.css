@@ -19,9 +19,7 @@ body {
 }
 h1 {
   font-size:200%,
-  font-family: 'Oswald', sans-serif;
 }
-h2 { font-family: 'Oswald', sans-serif;}
 h2, h3, h4, h5, h6 {
   font-size: 150%; }
 
@@ -74,6 +72,7 @@ ul.posts span {
 .site .header a {
   font-weight: bold;
   text-decoration: none;
+  font-family: 'Oswald', sans-serif;
 }
 
 .site .header h1.title {
