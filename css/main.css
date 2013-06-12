@@ -17,7 +17,11 @@ body {
   font-size: small;
   text-align: center;
 }
-h1 { font-size:200% }
+h1 {
+  font-size:200%,
+  font-family: 'Oswald', sans-serif;
+}
+h2 { font-family: 'Oswald', sans-serif;}
 h2, h3, h4, h5, h6 {
   font-size: 150%; }
 
