@@ -11,10 +11,9 @@
 }
 
 html, body { height: 100%; }
-
 body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  background-color: #FFFFEF;
+  font-family: 'Ubuntu', sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -145,7 +144,6 @@ ul.posts span {
 
 div.footnotes {
   font-size: 80%;
-  margin-left: 1.55em;
 }
 
 .post code {
