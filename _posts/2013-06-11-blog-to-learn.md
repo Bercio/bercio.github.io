@@ -16,6 +16,7 @@ core of the matter.
 During the process of writing something in a clear, readable manner,
 your understanding too, often, gets clearer. It's much easier to have a confused
 understanding and deceive yourself that it is, instead, clear, than to write
+
 something confuse and approximate and deceive yourself, even despite the opinion
 of the occasional and often unforgiving comments[^1], that it is clear and precise.
 
