@@ -26,8 +26,9 @@ h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
+a:link    { color: #369;
+            text-decoration: none; }
+a:hover   { text-decoration: underline; }
 a:visited { color: #a0a; }
 
 table {
@@ -118,16 +119,6 @@ ul.posts span {
   color: #8085C1;
 }
 
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.site .footer .rss img {
-  border: 0;
-}
-
 /*****************************************************************************/
 /*
 /* Posts
@@ -147,6 +138,12 @@ ul.posts span {
 
 div.footnotes {
   font-size: 80%;
+}
+
+.sharing {
+  text-align: center;
+  font-size: 80%;
+  margin-top: 1.1em;
 }
 
 .post code {

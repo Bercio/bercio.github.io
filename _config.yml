@@ -1,4 +1,6 @@
 name: The Joy of Learning about Beauty
+description: A Blog about math, physics and programming
+url: httb://bercio.com
 pygments: true
 maruku:
     use_tex:    true
